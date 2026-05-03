@@ -1,0 +1,19 @@
+{
+  "rules": [
+    {
+      "condition": "deadline_within_5_days",
+      "priority": "High",
+      "action": "Alert user and suggest immediate preparation"
+    },
+    {
+      "condition": "deadline_near_holiday",
+      "priority": "High",
+      "action": "Suggest working ahead before holiday"
+    },
+    {
+      "condition": "analysis_after_reporting",
+      "priority": "Medium",
+      "action": "Schedule post-reporting review"
+    }
+  ]
+}
