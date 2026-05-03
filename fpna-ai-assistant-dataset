@@ -1,0 +1,14 @@
+fpna-ai-assistant-dataset/
+│
+├── README.md
+│
+├── calendar/
+│   ├── 2026_events.json
+│   ├── 2026_holidays.json
+│
+├── rules/
+│   ├── priority_rules.json
+│   ├── fpna_cycles.json
+│
+└── metadata/
+    └── calendar_source.json
