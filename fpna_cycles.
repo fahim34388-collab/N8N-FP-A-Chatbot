@@ -1,0 +1,15 @@
+{
+  "cycles": [
+    {
+      "name": "Monthly Close",
+      "frequency": "Monthly",
+      "typical_window": "1st–10th",
+      "tasks": [
+        "Reporting",
+        "Distributor P&L",
+        "Receivable analysis",
+        "Management deck"
+      ]
+    }
+  ]
+}
