@@ -1,0 +1,30 @@
+[
+  {
+    "holiday_id": "HOL-2026-05-01",
+    "name": "May Day",
+    "date": "2026-05-01",
+    "country": "Bangladesh",
+    "working_day": false
+  },
+  {
+    "holiday_id": "HOL-2026-05-29",
+    "name": "Eid al-Adha",
+    "date": "2026-05-29",
+    "country": "Bangladesh",
+    "working_day": false
+  },
+  {
+    "holiday_id": "HOL-2026-05-30",
+    "name": "Eid al-Adha Holiday",
+    "date": "2026-05-30",
+    "country": "Bangladesh",
+    "working_day": false
+  },
+  {
+    "holiday_id": "HOL-2026-12-16",
+    "name": "Victory Day",
+    "date": "2026-12-16",
+    "country": "Bangladesh",
+    "working_day": false
+  }
+]
