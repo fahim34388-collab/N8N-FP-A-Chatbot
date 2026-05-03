@@ -1,0 +1,47 @@
+[
+  {
+    "event_id": "EVT-2026-05-09",
+    "title": "Reporting – PCL & PLPG",
+    "type": "deadline",
+    "category": "Reporting",
+    "start_date": "2026-05-09",
+    "end_date": "2026-05-09",
+    "all_day": true,
+    "priority": "High",
+    "fpna_relevance": true,
+    "description": "Monthly reporting deadline for PCL & PLPG",
+    "dependencies": ["Distributor P&L", "Receivable days"],
+    "owner": "FP&A",
+    "source": "Google Calendar"
+  },
+  {
+    "event_id": "EVT-2026-05-20",
+    "title": "Distributor P&L (Share) & DD P&L",
+    "type": "analysis",
+    "category": "P&L Analysis",
+    "start_date": "2026-05-20",
+    "end_date": "2026-05-20",
+    "all_day": true,
+    "priority": "High",
+    "fpna_relevance": true,
+    "description": "Distributor-level profitability analysis",
+    "dependencies": ["Sales data", "Receivable ageing"],
+    "owner": "FP&A",
+    "source": "Google Calendar"
+  },
+  {
+    "event_id": "EVT-2026-06-03",
+    "title": "Bank-wise Summary Review",
+    "type": "review",
+    "category": "Cash & Banking",
+    "start_date": "2026-06-03",
+    "end_date": "2026-06-03",
+    "all_day": false,
+    "priority": "Medium",
+    "fpna_relevance": true,
+    "description": "Review bank-wise cash and balances",
+    "dependencies": ["Bank statements"],
+    "owner": "FP&A",
+    "source": "Google Calendar"
+  }
+]
